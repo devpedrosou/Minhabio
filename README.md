@@ -1,5 +1,5 @@
 # Minhabio 🧑🏾‍💻 
-<h2>Nesta Bio, eu fiz bem basica, utilizando as seguintes linguagens: <p>
+<h2>Nesta Bio, eu fiz bem basica, utilizando somente as seguintes linguagens: <p>
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
