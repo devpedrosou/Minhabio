@@ -1,4 +1,4 @@
-# Trabalho Individual, Módulo 1, Biografia 🧑🏾‍💻 
+# Projeto Individual, Módulo 1, Biografia 🧑🏾‍💻 
 <h2>Nesta Bio, eu fiz bem basica, utilizando somente as seguintes linguagens: <p>
 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
